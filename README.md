@@ -1,5 +1,5 @@
 # Proyecto-Arduino_Sistema-de-Barrera-por-Proximidad
-En este proyecto explicaremos como implementar un sistema de barrera que funcione por proximidad, como si fuera un semáforo
+En este proyecto explicaremos como implementar un sistema de barrera que funcione por proximidad, como si fuera un semáforo.
 
 # Materiales necesarios
 - Arduino UNO
